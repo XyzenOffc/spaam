@@ -1,0 +1,20 @@
+{
+  "name": "telegram-spam-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for spamming messages with user role management.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "node-fetch": "^3.3.1",
+    "node-telegram-bot-api": "^0.61.0",
+    "sqlite3": "^5.1.6"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
